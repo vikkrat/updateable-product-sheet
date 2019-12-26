@@ -1,0 +1,31 @@
+<p class="form-title">Product Add Form</p>
+
+<div class="form-container">
+  <form class="form"
+        [formGroup]="productForm"
+        (ngSubmit)="submitForm()">
+
+    <mat-form-field>
+      <input matInput
+             placeholder="Product Name"
+             formControlName="name">
+    </mat-form-field>
+
+    <mat-form-field>
+      <mat-select
+        placeholder="Select Category of Product"
+        formControlName="category">
+        <mat-option *ngFor="let category of categories" [value]="category">
+          {{category}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <button mat-raised-button
+            type="submit"
+            [disabled]="!productForm.valid"
+    >Add Product
+    </button>
+
+  </form>
+</div>

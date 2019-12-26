@@ -1,0 +1,21 @@
+.form-container,
+.form {
+  display: flex;
+  flex-direction: column;
+}
+.form,
+.form-container > * {
+  width: 100%;
+}
+
+.mat-raised-button {
+  max-width: 100px;
+  align-self: flex-end;
+}
+
+.form-title {
+  font-size: 26px;
+  font-weight: bold;
+  color: #6945b7;
+  text-align: center;
+}

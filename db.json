@@ -1,0 +1,165 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Food Processors",
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Double bed",
+      "category": "Furniture"
+    },
+    {
+      "id": 3,
+      "name": "Jacket",
+      "category": "Clothing"
+    },
+    {
+      "id": 4,
+      "name": "Fruit salad",
+      "category": "Food"
+    },
+    {
+      "id": 5,
+      "name": "Wooden dining table",
+      "category": "Furniture"
+    },
+    {
+      "id": 6,
+      "name": "Refrigerator",
+      "category": "Electronics"
+    },
+    {
+      "id": 7,
+      "name": "Homemade pastries",
+      "category": "Food"
+    },
+    {
+      "id": 8,
+      "name": "Microwave oven",
+      "category": "Electronics"
+    },
+    {
+      "id": 9,
+      "name": "Pizza",
+      "category": "Food"
+    },
+    {
+      "id": 10,
+      "name": "Laptop",
+      "category": "Electronics"
+    },
+    {
+      "id": 11,
+      "name": "Sliding wardrobe",
+      "category": "Furniture"
+    },
+    {
+      "id": 12,
+      "name": "Sushi and rolls",
+      "category": "Food"
+    },
+    {
+      "id": 13,
+      "name": "Scarf",
+      "category": "Clothing"
+    },
+    {
+      "id": 14,
+      "name": "Suit",
+      "category": "Clothing"
+    },
+    {
+      "id": 15,
+      "name": "T-shirt",
+      "category": "Clothing"
+    },
+    {
+      "id": 16,
+      "name": "Dress",
+      "category": "Clothing"
+    },
+    {
+      "id": 17,
+      "name": "Yogurt",
+      "category": "Food"
+    },
+    {
+      "id": 18,
+      "name": "Corner sofa",
+      "category": "Furniture"
+    },
+    {
+      "id": 19,
+      "name": "Home theater",
+      "category": "Electronics"
+    },
+    {
+      "id": 20,
+      "name": "Mascarpone cheese",
+      "category": "Food"
+    },
+    {
+      "name": "Chairs",
+      "category": "Furniture",
+      "id": 21
+    },
+    {
+      "name": "Candy Nut",
+      "category": "Food",
+      "id": 22
+    },
+    {
+      "name": "Smart Clock",
+      "category": "Electronics",
+      "id": 23
+    },
+    {
+      "name": "Carrot",
+      "category": "Food",
+      "id": 24
+    },
+    {
+      "name": "Tea",
+      "category": "Food",
+      "id": 25
+    },
+    {
+      "name": "Shirt",
+      "category": "Clothing",
+      "id": 26
+    },
+    {
+      "name": "Sofa",
+      "category": "Furniture",
+      "id": 27
+    },
+    {
+      "name": "Bear",
+      "category": "Food",
+      "id": 28
+    },
+    {
+      "name": "Cacao",
+      "category": "Food",
+      "id": 29
+    },
+    {
+      "name": "Cake",
+      "category": "Food",
+      "id": 30
+    },
+    {
+      "name": "Air Сonditioning",
+      "category": "Furniture",
+      "id": 31
+    }
+  ],
+  "category": [
+    "Electronics",
+    "Furniture",
+    "Clothing",
+    "Food"
+  ]
+}
